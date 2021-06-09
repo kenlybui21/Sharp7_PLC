@@ -1,0 +1,4 @@
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_ConsoleGUI.csprojAssemblyReference.cache
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_ConsoleGUI.Properties.Resources.resources
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_ConsoleGUI.csproj.GenerateResource.cache
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_ConsoleGUI.csproj.CoreCompileInputs.cache

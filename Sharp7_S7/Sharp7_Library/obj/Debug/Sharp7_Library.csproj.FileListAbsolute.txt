@@ -1,0 +1,6 @@
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_Library\bin\Debug\Sharp7_Library.dll
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_Library\bin\Debug\Sharp7_Library.pdb
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_Library\obj\Debug\Sharp7_Library.csprojAssemblyReference.cache
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_Library\obj\Debug\Sharp7_Library.csproj.CoreCompileInputs.cache
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_Library\obj\Debug\Sharp7_Library.dll
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_Library\obj\Debug\Sharp7_Library.pdb

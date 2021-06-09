@@ -1,0 +1,13 @@
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\bin\Debug\Sharp7_S7_ConsoleGUI.exe.config
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\bin\Debug\Sharp7_S7_ConsoleGUI.exe
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\bin\Debug\Sharp7_S7_ConsoleGUI.pdb
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\bin\Debug\Sharp7_Library.dll
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\bin\Debug\Sharp7_Library.pdb
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_GUI.csprojAssemblyReference.cache
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_ConsoleGUI.Properties.Resources.resources
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_GUI.csproj.GenerateResource.cache
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_GUI.csproj.CoreCompileInputs.cache
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_GUI.csproj.CopyComplete
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_ConsoleGUI.exe
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_ConsoleGUI.pdb
+E:\Working\Sharp7_S7\Sharp7_S7\Sharp7_S7_ConsoleGUI\obj\Debug\Sharp7_S7_GUI.Control_Setting_View.resources

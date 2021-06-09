@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharp7_S7_GUI", "Sharp7_S7_ConsoleGUI\Sharp7_S7_GUI.csproj", "{5694D262-7151-49C5-B1A6-A25074692005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharp7_Library", "Sharp7_Library\Sharp7_Library.csproj", "{54A7093B-4694-4FA4-B949-04AB13DAE444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5694D262-7151-49C5-B1A6-A25074692005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5694D262-7151-49C5-B1A6-A25074692005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5694D262-7151-49C5-B1A6-A25074692005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5694D262-7151-49C5-B1A6-A25074692005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A7093B-4694-4FA4-B949-04AB13DAE444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A7093B-4694-4FA4-B949-04AB13DAE444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A7093B-4694-4FA4-B949-04AB13DAE444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A7093B-4694-4FA4-B949-04AB13DAE444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87354C26-6CD8-4683-BF47-E4DEBE59887C}
+	EndGlobalSection
+EndGlobal
